@@ -1,0 +1,475 @@
+{
+    "id": "5233",
+    "game_title": "Show #7272 - Tuesday, April 5, 2016",
+    "game_comments": "",
+    "game_complete": true,
+    "category_J_1": {
+        "category_name": "ALL THE PRESIDENTS' CHILDREN",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "FROM THE GERMAN",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "OFFICIAL STATE ANIMALS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "TRANS\"PO\"TATION",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "THE BEATLES...GEAR!",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "INDIRECT QUOTES",
+        "category_comments": "(Alex: In which you have to correct the part that is in parentheses.)",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "298067",
+        "clue_html": "Since 2009, <a href=\"http://www.j-archive.com/media/2016-04-05_J_10.jpg\" target=\"_blank\">this presidential daughter</a> has been a correspondent for the &quot;Today&quot; show",
+        "clue_text": "Since 2009, this presidential daughter has been a correspondent for the \"Today\" show",
+        "correct_response": "Jenna Bush",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_J_10.jpg"
+        ]
+    },
+    "clue_J_2_1": {
+        "id": "298081",
+        "clue_html": "Put this 4-letter word after &quot;gab&quot; or &quot;fun&quot; &amp; you get an event with lots of those",
+        "clue_text": "Put this 4-letter word after \"gab\" or \"fun\" & you get an event with lots of those",
+        "correct_response": "fest"
+    },
+    "clue_J_3_1": {
+        "id": "298086",
+        "clue_html": "The West Indian species of this sea cow is Alabama&apos;s official state marine mammal",
+        "clue_text": "The West Indian species of this sea cow is Alabama's official state marine mammal",
+        "correct_response": "a manatee"
+    },
+    "clue_J_4_1": {
+        "id": "298091",
+        "clue_html": "In 1919 George Hansburg patented this jumping device, a big hit in the bouncing &apos;20s",
+        "clue_text": "In 1919 George Hansburg patented this jumping device, a big hit in the bouncing '20s",
+        "correct_response": "pogo stick"
+    },
+    "clue_J_5_1": {
+        "id": "298076",
+        "clue_html": "Ringo played Ludwig these, with the band&apos;s logo",
+        "clue_text": "Ringo played Ludwig these, with the band's logo",
+        "correct_response": "drums"
+    },
+    "clue_J_6_1": {
+        "id": "298092",
+        "clue_html": "&quot;Absolute (work divided by time) corrupts absolutely&quot;",
+        "clue_text": "\"Absolute (work divided by time) corrupts absolutely\"",
+        "correct_response": "power"
+    },
+    "clue_J_1_2": {
+        "id": "298068",
+        "clue_html": "In 2014 she &amp; husband Marc Mezvinsky welcomed their first child, Charlotte",
+        "clue_text": "In 2014 she & husband Marc Mezvinsky welcomed their first child, Charlotte",
+        "correct_response": "Chelsea Clinton"
+    },
+    "clue_J_2_2": {
+        "id": "298082",
+        "clue_html": "If you say &quot;He took a lot of&quot; this, either he was criticized or his plane was shot at",
+        "clue_text": "If you say \"He took a lot of\" this, either he was criticized or his plane was shot at",
+        "correct_response": "flak"
+    },
+    "clue_J_3_2": {
+        "id": "298087",
+        "clue_html": "In 1995 Missouri designated this stubborn equine its state animal",
+        "clue_text": "In 1995 Missouri designated this stubborn equine its state animal",
+        "correct_response": "mule"
+    },
+    "clue_J_4_2": {
+        "id": "298072",
+        "clue_html": "Symbolic of a profession, the car known as the Ford Crown Victoria this Interceptor went out of production in 2011",
+        "clue_text": "Symbolic of a profession, the car known as the Ford Crown Victoria this Interceptor went out of production in 2011",
+        "correct_response": "a police car"
+    },
+    "clue_J_5_2": {
+        "id": "298077",
+        "clue_html": "John and George used Vox AC30s, these (they might get loud)",
+        "clue_text": "John and George used Vox AC30s, these (they might get loud)",
+        "correct_response": "amplifiers"
+    },
+    "clue_J_6_2": {
+        "id": "298093",
+        "clue_html": "&quot;Our constitution is (suffering from monochromatism) and neither knows nor tolerates classes among citizens&quot;",
+        "clue_text": "\"Our constitution is (suffering from monochromatism) and neither knows nor tolerates classes among citizens\"",
+        "correct_response": "colorblindness"
+    },
+    "clue_J_1_3": {
+        "id": "298069",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2016-04-05_J_12.jpg\" target=\"_blank\">That</a>&apos;s Abraham Lincoln looking at a book with son Thomas, who was better known by this three-letter nickname",
+        "clue_text": "That's Abraham Lincoln looking at a book with son Thomas, who was better known by this three-letter nickname",
+        "correct_response": "Tad",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_J_12.jpg"
+        ]
+    },
+    "clue_J_2_3": {
+        "id": "298083",
+        "clue_html": "I can&apos;t sit still; I&apos;ve got this 10-letter need to roam",
+        "clue_text": "I can't sit still; I've got this 10-letter need to roam",
+        "correct_response": "wanderlust"
+    },
+    "clue_J_3_3": {
+        "id": "298088",
+        "clue_html": "School kids in Montana chose this fierce brown bear to be the state&apos;s official animal",
+        "clue_text": "School kids in Montana chose this fierce brown bear to be the state's official animal",
+        "correct_response": "a grizzly"
+    },
+    "clue_J_4_3": {
+        "id": "298073",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2016-04-05_J_03.jpg\" target=\"_blank\">It</a> transports a very special person around town",
+        "clue_text": "It transports a very special person around town",
+        "correct_response": "the Popemobile",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_J_03.jpg"
+        ]
+    },
+    "clue_J_5_3": {
+        "id": "298078",
+        "clue_html": "Paul played a Hofner &apos;61 &quot;violin&quot;-shaped one of these",
+        "clue_text": "Paul played a Hofner '61 \"violin\"-shaped one of these",
+        "correct_response": "a bass"
+    },
+    "clue_J_6_3": {
+        "id": "298094",
+        "triple_stumper": true,
+        "clue_html": "&quot;The carriage held but just ourselves--/ and (eternal life)&quot;",
+        "clue_text": "\"The carriage held but just ourselves--/ and (eternal life)\"",
+        "correct_response": "immortality"
+    },
+    "clue_J_1_4": {
+        "id": "298070",
+        "clue_html": "In the 1970s Susan Ford, who became a photojournalist, studied with this landscape photographer",
+        "clue_text": "In the 1970s Susan Ford, who became a photojournalist, studied with this landscape photographer",
+        "correct_response": "Ansel Adams"
+    },
+    "clue_J_2_4": {
+        "id": "298084",
+        "clue_html": "Bringing extra defensive players to rush the passer",
+        "clue_text": "Bringing extra defensive players to rush the passer",
+        "correct_response": "a blitz"
+    },
+    "clue_J_3_4": {
+        "id": "298089",
+        "clue_html": "Kentucky &amp; Maryland, which both host legs of the Triple Crown, both have this as the state horse",
+        "clue_text": "Kentucky & Maryland, which both host legs of the Triple Crown, both have this as the state horse",
+        "correct_response": "thoroughbred"
+    },
+    "clue_J_4_4": {
+        "id": "298074",
+        "clue_html": "During WWII this Austrian automotive engineer helped develop the Tiger tank",
+        "clue_text": "During WWII this Austrian automotive engineer helped develop the Tiger tank",
+        "correct_response": "Porsche"
+    },
+    "clue_J_5_4": {
+        "id": "298079",
+        "triple_stumper": true,
+        "clue_html": "That crashing chord at the end of &quot;A Day In The Life&quot; is John, Paul, Ringo &amp; Mal Evans on 3 of these",
+        "clue_text": "That crashing chord at the end of \"A Day In The Life\" is John, Paul, Ringo & Mal Evans on 3 of these",
+        "correct_response": "pianos"
+    },
+    "clue_J_6_4": {
+        "id": "298095",
+        "clue_html": "&quot;The (quantitative measure of inertia) of men lead lives of quiet desperation&quot;",
+        "clue_text": "\"The (quantitative measure of inertia) of men lead lives of quiet desperation\"",
+        "correct_response": "mass"
+    },
+    "clue_J_1_5": {
+        "id": "298071",
+        "daily_double": true,
+        "clue_html": "Last name of <a href=\"http://www.j-archive.com/media/2016-04-05_J_14.jpg\" target=\"_blank\">John</a>, who before his death in 2013 at 91 was the oldest living child of a president",
+        "clue_text": "Last name of John, who before his death in 2013 at 91 was the oldest living child of a president",
+        "correct_response": "Eisenhower",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_J_14.jpg"
+        ]
+    },
+    "clue_J_2_5": {
+        "id": "298085",
+        "clue_html": "In 1969 the first watch using this mineral to keep time came on the market",
+        "clue_text": "In 1969 the first watch using this mineral to keep time came on the market",
+        "correct_response": "quartz"
+    },
+    "clue_J_3_5": {
+        "id": "298090",
+        "clue_html": "The peregrine this is Idaho&apos;s state raptor",
+        "clue_text": "The peregrine this is Idaho's state raptor",
+        "correct_response": "a falcon"
+    },
+    "clue_J_4_5": {
+        "id": "298075",
+        "clue_html": "Until 2014 Chris Christie&apos;s friend David Samson was head of this transportation agency",
+        "clue_text": "Until 2014 Chris Christie's friend David Samson was head of this transportation agency",
+        "correct_response": "the Port Authority"
+    },
+    "clue_J_5_5": {
+        "id": "298080",
+        "clue_html": "The bloke playing the solo on &quot;While My Guitar Gently Weeps&quot; isn&apos;t a Beatle but this guitar god, using a Les Paul",
+        "clue_text": "The bloke playing the solo on \"While My Guitar Gently Weeps\" isn't a Beatle but this guitar god, using a Les Paul",
+        "correct_response": "(Eric) Clapton"
+    },
+    "clue_J_6_5": {
+        "id": "298096",
+        "clue_html": "&quot;(This family game) is business at the end of its journey&quot;",
+        "clue_text": "\"(This family game) is business at the end of its journey\"",
+        "correct_response": "Monopoly"
+    },
+    "category_DJ_1": {
+        "category_name": "SUTTER'S FORT",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "TOUGH EUROPEAN CAPITALS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "A LITERARY MARY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "MOVIE COMMON THREADS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "FAMOUS PAIRS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "THE \"X\" FACTOR",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "298097",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-04-05_DJ_26.jpg\" target=\"_blank\">Sarah of the Clue Crew gives the clue from Sutter&apos;s Fort.</a>) In 1840, John Sutter received a grant from Mexico of around 50,000 acres here in the Sacramento Valley on which he built his fort; he named his landholdings New Helvetia for his homeland in this country",
+        "clue_text": "(Sarah of the Clue Crew gives the clue from Sutter's Fort.) In 1840, John Sutter received a grant from Mexico of around 50,000 acres here in the Sacramento Valley on which he built his fort; he named his landholdings New Helvetia for his homeland in this country",
+        "correct_response": "Switzerland",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_26.jpg"
+        ]
+    },
+    "clue_DJ_2_1": {
+        "id": "298098",
+        "clue_html": "Zagreb",
+        "clue_text": "Zagreb",
+        "correct_response": "Croatia"
+    },
+    "clue_DJ_3_1": {
+        "id": "298103",
+        "clue_html": "In the Sherlock Holmes tale &quot;A Scandal in Bohemia&quot;, this man has settled into married life with Mary Morstan",
+        "clue_text": "In the Sherlock Holmes tale \"A Scandal in Bohemia\", this man has settled into married life with Mary Morstan",
+        "correct_response": "(Dr.) Watson"
+    },
+    "clue_DJ_4_1": {
+        "id": "298108",
+        "clue_html": "&quot;American ____ &amp; Flow&quot;",
+        "clue_text": "\"American ____ & Flow\"",
+        "correct_response": "hustle"
+    },
+    "clue_DJ_5_1": {
+        "id": "298113",
+        "triple_stumper": true,
+        "clue_html": "Unveiled in 2013, their star on the Hollywood Walk of Fame is just steps away from Houdini&apos;s",
+        "clue_text": "Unveiled in 2013, their star on the Hollywood Walk of Fame is just steps away from Houdini's",
+        "correct_response": "Penn and Teller"
+    },
+    "clue_DJ_6_1": {
+        "id": "298118",
+        "clue_html": "Shaft on which a wheel rotates",
+        "clue_text": "Shaft on which a wheel rotates",
+        "correct_response": "an axle"
+    },
+    "clue_DJ_1_2": {
+        "id": "298123",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-04-05_DJ_27.jpg\" target=\"_blank\">Sarah of the Clue Crew gives the clue from Sutter&apos;s Fort.</a>) After years of disrepair, the fort was restored in the 1890s to serve as a museum; refugees from this 1906 event were temporarily housed at the fort, with the immigrant room here serving as a shower room",
+        "clue_text": "(Sarah of the Clue Crew gives the clue from Sutter's Fort.) After years of disrepair, the fort was restored in the 1890s to serve as a museum; refugees from this 1906 event were temporarily housed at the fort, with the immigrant room here serving as a shower room",
+        "correct_response": "the San Francisco earthquake",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_27.jpg"
+        ]
+    },
+    "clue_DJ_2_2": {
+        "id": "298099",
+        "clue_html": "Nicosia",
+        "clue_text": "Nicosia",
+        "correct_response": "Cyprus"
+    },
+    "clue_DJ_3_2": {
+        "id": "298104",
+        "clue_html": "Her books about life on the prairie include telling how her sister Mary lost her eyesight at age 14 in 1879",
+        "clue_text": "Her books about life on the prairie include telling how her sister Mary lost her eyesight at age 14 in 1879",
+        "correct_response": "(Laura) Ingalls Wilder"
+    },
+    "clue_DJ_4_2": {
+        "id": "298109",
+        "clue_html": "&quot;Maid in ____ Murder Mystery&quot;",
+        "clue_text": "\"Maid in ____ Murder Mystery\"",
+        "correct_response": "Manhattan"
+    },
+    "clue_DJ_5_2": {
+        "id": "298114",
+        "daily_double": true,
+        "clue_html": "In the 1990s their &quot;two thumbs up&quot; became a registered trademark",
+        "clue_text": "In the 1990s their \"two thumbs up\" became a registered trademark",
+        "correct_response": "Siskel and Ebert"
+    },
+    "clue_DJ_6_2": {
+        "id": "298119",
+        "clue_html": "The marimba is a type of this instrument",
+        "clue_text": "The marimba is a type of this instrument",
+        "correct_response": "xylophone"
+    },
+    "clue_DJ_1_3": {
+        "id": "298124",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-04-05_DJ_28.jpg\" target=\"_blank\">Jimmy of the Clue Crew gives the Clue from Sutter&apos;s Fort.</a>) In operation for only a short time, the distillery at the fort was used to make wine, but the grapes were so low in sugar, Sutter decided to distill the wine and make this fruity alcoholic drink that became known in California as aguardiente or &quot;burning water&quot;",
+        "clue_text": "(Jimmy of the Clue Crew gives the Clue from Sutter's Fort.) In operation for only a short time, the distillery at the fort was used to make wine, but the grapes were so low in sugar, Sutter decided to distill the wine and make this fruity alcoholic drink that became known in California as aguardiente or \"burning water\"",
+        "correct_response": "brandy",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_28.jpg"
+        ]
+    },
+    "clue_DJ_2_3": {
+        "id": "298100",
+        "clue_html": "Minsk",
+        "clue_text": "Minsk",
+        "correct_response": "Belarus"
+    },
+    "clue_DJ_3_3": {
+        "id": "298105",
+        "clue_html": "This author&apos;s father William Godwin has been called the father of philosophical anarchism",
+        "clue_text": "This author's father William Godwin has been called the father of philosophical anarchism",
+        "correct_response": "(Mary) Shelley"
+    },
+    "clue_DJ_4_3": {
+        "id": "298110",
+        "clue_html": "&quot;Bridge of ____ Like Us&quot;",
+        "clue_text": "\"Bridge of ____ Like Us\"",
+        "correct_response": "spies"
+    },
+    "clue_DJ_5_3": {
+        "id": "298115",
+        "clue_html": "This couple, shot dead in a 1934 ambush, is believe to have committed 13 murders as well as robberies",
+        "clue_text": "This couple, shot dead in a 1934 ambush, is believe to have committed 13 murders as well as robberies",
+        "correct_response": "Bonnie and Clyde"
+    },
+    "clue_DJ_6_3": {
+        "id": "298120",
+        "clue_html": "No need to be anxious with this drug AKA alprazolam",
+        "clue_text": "No need to be anxious with this drug AKA alprazolam",
+        "correct_response": "Xanax"
+    },
+    "clue_DJ_1_4": {
+        "id": "298125",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-04-05_DJ_29.jpg\" target=\"_blank\">Sarah of the Clue Crew gives the clue from Sutter&apos;s Fort.</a>) Since almost everything shipped or stored had to be in barrels, the cooperage where they were made was crucial to Sutter&apos;s enterprises, one of which was baking and exporting the tough flour and water <a href=\"http://www.j-archive.com/media/2016-04-05_DJ_29a.jpg\" target=\"_blank\">biscuits</a> known as ship&apos;s bread, or this",
+        "clue_text": "(Sarah of the Clue Crew gives the clue from Sutter's Fort.) Since almost everything shipped or stored had to be in barrels, the cooperage where they were made was crucial to Sutter's enterprises, one of which was baking and exporting the tough flour and water biscuits known as ship's bread, or this",
+        "correct_response": "hardtack",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_29.jpg",
+            "http://localhost:3000/media/2016-04-05_DJ_29a.jpg"
+        ]
+    },
+    "clue_DJ_2_4": {
+        "id": "298101",
+        "clue_html": "Valletta",
+        "clue_text": "Valletta",
+        "correct_response": "Malta"
+    },
+    "clue_DJ_3_4": {
+        "id": "298106",
+        "daily_double": true,
+        "clue_html": "Mary Stewart&apos;s enchanting Arthurian trilogy starts with &quot;The Crystal Cave&quot;, the saga of this character&apos;s youth",
+        "clue_text": "Mary Stewart's enchanting Arthurian trilogy starts with \"The Crystal Cave\", the saga of this character's youth",
+        "correct_response": "Merlin"
+    },
+    "clue_DJ_4_4": {
+        "id": "298111",
+        "clue_html": "&quot;2 Days ____ ____ ____ of Elah&quot;",
+        "clue_text": "\"2 Days ____ ____ ____ of Elah\"",
+        "correct_response": "in the valley"
+    },
+    "clue_DJ_5_4": {
+        "id": "298116",
+        "clue_html": "They wrote some of England&apos;s most popular operettas, including &quot;The Pirates of Penzance&quot;",
+        "clue_text": "They wrote some of England's most popular operettas, including \"The Pirates of Penzance\"",
+        "correct_response": "Gilbert and Sullivan"
+    },
+    "clue_DJ_6_4": {
+        "id": "298121",
+        "clue_html": "This horse racing bet is also called a perfecta",
+        "clue_text": "This horse racing bet is also called a perfecta",
+        "correct_response": "an exacta"
+    },
+    "clue_DJ_1_5": {
+        "id": "298126",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-04-05_DJ_30.jpg\" target=\"_blank\">Jimmy of the Clue Crew gives the Clue from Sutter&apos;s Fort.</a>) In July 1846, <a href=\"http://www.j-archive.com/media/2016-04-05_DJ_30a.jpg\" target=\"_blank\">this</a> army officer known as &quot;the pathfinder&quot; took temporary control of the fort after the Bear Flag Revolt, renaming it Fort Sacramento, thus leaving John Sutter as a figurehead in his own fort",
+        "clue_text": "(Jimmy of the Clue Crew gives the Clue from Sutter's Fort.) In July 1846, this army officer known as \"the pathfinder\" took temporary control of the fort after the Bear Flag Revolt, renaming it Fort Sacramento, thus leaving John Sutter as a figurehead in his own fort",
+        "correct_response": "(John) Fr�mont",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_30.jpg",
+            "http://localhost:3000/media/2016-04-05_DJ_30a.jpg"
+        ]
+    },
+    "clue_DJ_2_5": {
+        "id": "298102",
+        "triple_stumper": true,
+        "clue_html": "Podgorica",
+        "clue_text": "Podgorica",
+        "correct_response": "Montenegro"
+    },
+    "clue_DJ_3_5": {
+        "id": "298107",
+        "clue_html": "Mary Jane Reed submerges herself into this Philip Roth character&apos;s Jewish identity to reap some missing family love",
+        "clue_text": "Mary Jane Reed submerges herself into this Philip Roth character's Jewish identity to reap some missing family love",
+        "correct_response": "(Alexander) Portnoy"
+    },
+    "clue_DJ_4_5": {
+        "id": "298112",
+        "clue_html": "&quot;Gray Lady ____ by Law&quot;",
+        "clue_text": "\"Gray Lady ____ by Law\"",
+        "correct_response": "down"
+    },
+    "clue_DJ_5_5": {
+        "id": "298117",
+        "clue_html": "In 1924 <a href=\"http://www.j-archive.com/media/2016-04-05_DJ_15.jpg\" target=\"_blank\">they</a> published the first crossword puzzle book, and their company still publishes them today",
+        "clue_text": "In 1924 they published the first crossword puzzle book, and their company still publishes them today",
+        "correct_response": "Simon and Schuster",
+        "media": [
+            "http://localhost:3000/media/2016-04-05_DJ_15.jpg"
+        ]
+    },
+    "clue_DJ_6_5": {
+        "id": "298122",
+        "triple_stumper": true,
+        "clue_html": "A limb of the body, or the terminal point of something",
+        "clue_text": "A limb of the body, or the terminal point of something",
+        "correct_response": "extremity"
+    },
+    "category_FJ_1": {
+        "category_name": "FOOD & DRINK",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "This cereal brand that&apos;s been with us since the 1920s teamed up with a brewer in 2015 to create a Hefeweizen",
+        "clue_text": "This cereal brand that's been with us since the 1920s teamed up with a brewer in 2015 to create a Hefeweizen",
+        "correct_response": "Wheaties"
+    }
+}

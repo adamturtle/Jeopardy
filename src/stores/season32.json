@@ -1,0 +1,884 @@
+[
+    {
+        "id": "5233",
+        "name": "#7272, aired 2016-04-05",
+        "description": "Udit Banerjea vs. Jeff Crosby vs. Toni Johnson",
+        "note": ""
+    },
+    {
+        "id": "5232",
+        "name": "#7271, aired 2016-04-04",
+        "description": "Todd Giese vs. Udit Banerjea vs. Kerstin Nordstrom",
+        "note": ""
+    },
+    {
+        "id": "5231",
+        "name": "#7270, aired 2016-04-01",
+        "description": "Todd Giese vs. Oliver Bundy vs. Milton John",
+        "note": ""
+    },
+    {
+        "id": "5230",
+        "name": "#7269, aired 2016-03-31",
+        "description": "Todd Giese vs. Fariha Ali vs. Laura Mogul",
+        "note": ""
+    },
+    {
+        "id": "5228",
+        "name": "#7268, aired 2016-03-30",
+        "description": "Todd Giese vs. Megan Selva vs. Bill Burns",
+        "note": ""
+    },
+    {
+        "id": "5226",
+        "name": "#7267, aired 2016-03-29",
+        "description": "Erin Bowers vs. Todd Giese vs. Michelle Bulger Mabery",
+        "note": ""
+    },
+    {
+        "id": "5225",
+        "name": "#7266, aired 2016-03-28",
+        "description": "Doug Behrend vs. Kent Buxton vs. Erin Bowers",
+        "note": ""
+    },
+    {
+        "id": "5224",
+        "name": "#7265, aired 2016-03-25",
+        "description": "Sarah Thompson vs. Doug Behrend vs. Sam Gale",
+        "note": "WE ASKED: Actress Audra McDonald."
+    },
+    {
+        "id": "5223",
+        "name": "#7264, aired 2016-03-24",
+        "description": "Claudia Stucke vs. Vivek Srikrishnan vs. Sarah Thompson",
+        "note": "WE ASKED: Placido Domingo."
+    },
+    {
+        "id": "5222",
+        "name": "#7263, aired 2016-03-23",
+        "description": "Claudia Stucke vs. Jen Kadzie vs. Jessica Kiefer",
+        "note": ""
+    },
+    {
+        "id": "5221",
+        "name": "#7262, aired 2016-03-22",
+        "description": "Melissa Spencer vs. Joshua Wennrich vs. Claudia Stucke",
+        "note": ""
+    },
+    {
+        "id": "5220",
+        "name": "#7261, aired 2016-03-21",
+        "description": "Steve Stoffle vs. Kim Vu vs. Melissa Spencer",
+        "note": ""
+    },
+    {
+        "id": "5219",
+        "name": "#7260, aired 2016-03-18",
+        "description": "Gwen Niksic vs. Steve Stoffle vs. Aurora Nibley",
+        "note": ""
+    },
+    {
+        "id": "5218",
+        "name": "#7259, aired 2016-03-17",
+        "description": "Philip Tiu vs. Chris Horton vs. Gwen Niksic",
+        "note": ""
+    },
+    {
+        "id": "5217",
+        "name": "#7258, aired 2016-03-16",
+        "description": "Philip Tiu vs. Geoff Mitelman vs. Elena Gray-Blanc",
+        "note": ""
+    },
+    {
+        "id": "5216",
+        "name": "#7257, aired 2016-03-15",
+        "description": "Philip Tiu vs. Kristen Bancroft vs. Sean Cauley",
+        "note": ""
+    },
+    {
+        "id": "5215",
+        "name": "#7256, aired 2016-03-14",
+        "description": "Gordon Moffat vs. Philip Tiu vs. Amanda Darby",
+        "note": ""
+    },
+    {
+        "id": "5214",
+        "name": "#7255, aired 2016-03-11",
+        "description": "Katrina Mundinger vs. Victor Ferreira vs. Gordon Moffat",
+        "note": ""
+    },
+    {
+        "id": "5213",
+        "name": "#7254, aired 2016-03-10",
+        "description": "Katrina Mundinger vs. Norine Noonan vs. Danielle Stillman-Diederich",
+        "note": ""
+    },
+    {
+        "id": "5212",
+        "name": "#7253, aired 2016-03-09",
+        "description": "Annie Moriondo vs. Katrina Mundinger vs. Bill Patschak",
+        "note": ""
+    },
+    {
+        "id": "5211",
+        "name": "#7252, aired 2016-03-08",
+        "description": "Brent Povis vs. Paul Hoan Zeidler vs. Annie Moriondo",
+        "note": ""
+    },
+    {
+        "id": "5210",
+        "name": "#7251, aired 2016-03-07",
+        "description": "Natasha Gainey vs. Eric Grebing vs. Brent Povis",
+        "note": ""
+    },
+    {
+        "id": "5209",
+        "name": "#7250, aired 2016-03-04",
+        "description": "Rachel Zoch vs. Therese Jones vs. Natasha Gainey",
+        "note": ""
+    },
+    {
+        "id": "5208",
+        "name": "#7249, aired 2016-03-03",
+        "description": "Rachel Zoch vs. Ted Dorsey vs. Soumia Meiyappan",
+        "note": "WE ASKED: Al Roker."
+    },
+    {
+        "id": "5207",
+        "name": "#7248, aired 2016-03-02",
+        "description": "Rachel Zoch vs. Peter Diedrich vs. John Bozek",
+        "note": ""
+    },
+    {
+        "id": "5206",
+        "name": "#7247, aired 2016-03-01",
+        "description": "David Bradley vs. Titi Ala'ilima vs. Rachel Zoch",
+        "note": ""
+    },
+    {
+        "id": "5205",
+        "name": "#7246, aired 2016-02-29",
+        "description": "David Bradley vs. Tyler Shattuck vs. Brigid Hannahoe",
+        "note": ""
+    },
+    {
+        "id": "5204",
+        "name": "#7245, aired 2016-02-26",
+        "description": "Chris Giglio vs. David Bradley vs. Bill Murphy",
+        "note": ""
+    },
+    {
+        "id": "5203",
+        "name": "#7244, aired 2016-02-25",
+        "description": "Jill Panall vs. Rebecca Harlow vs. Chris Giglio",
+        "note": ""
+    },
+    {
+        "id": "5200",
+        "name": "#7243, aired 2016-02-24",
+        "description": "Ben Yuhas vs. Jill Panall vs. Suzy Law",
+        "note": ""
+    },
+    {
+        "id": "5202",
+        "name": "#7242, aired 2016-02-23",
+        "description": "Tim Kutz vs. Ben Yuhas vs. Robin Heck",
+        "note": ""
+    },
+    {
+        "id": "5201",
+        "name": "#7241, aired 2016-02-22",
+        "description": "Tim Kutz vs. Maria Santonato vs. Joshua Parr",
+        "note": ""
+    },
+    {
+        "id": "5199",
+        "name": "#7240, aired 2016-02-19",
+        "description": "Tim Kutz vs. Mitch Metcalfe vs. Pat Woodard",
+        "note": ""
+    },
+    {
+        "id": "5198",
+        "name": "#7239, aired 2016-02-18",
+        "description": "Tim Kutz vs. Brian Worthington vs. Shana Macks",
+        "note": ""
+    },
+    {
+        "id": "5197",
+        "name": "#7238, aired 2016-02-17",
+        "description": "Chris Becker vs. Katie Oliver vs. Tim Kutz",
+        "note": ""
+    },
+    {
+        "id": "5196",
+        "name": "#7237, aired 2016-02-16",
+        "description": "Chris Becker vs. Manisha Parekh vs. Zach Binney",
+        "note": ""
+    },
+    {
+        "id": "5195",
+        "name": "#7236, aired 2016-02-15",
+        "description": "Chris Becker vs. Ramona Riddles vs. Sarah Wright",
+        "note": "WE ASKED: Stephan James.\r\n\r\n9 clues left unrevealed in Double Jeopardy!"
+    },
+    {
+        "id": "5193",
+        "name": "#7235, aired 2016-02-12",
+        "description": "Sarah Dubnik vs. Niki Peters vs. Sam Deutsch",
+        "note": "2016 College Championship final game 2."
+    },
+    {
+        "id": "5192",
+        "name": "#7234, aired 2016-02-11",
+        "description": "Sarah Dubnik vs. Niki Peters vs. Sam Deutsch",
+        "note": "2016 College Championship final game 1."
+    },
+    {
+        "id": "5189",
+        "name": "#7233, aired 2016-02-10",
+        "description": "Ziad Ali vs. Sarah Dubnik vs. Kate Laubscher",
+        "note": "2016 College Championship semifinal game 3."
+    },
+    {
+        "id": "5188",
+        "name": "#7232, aired 2016-02-09",
+        "description": "Emily Bingham vs. Sam Deutsch vs. Hannah Norem",
+        "note": "2016 College Championship semifinal game 2."
+    },
+    {
+        "id": "5187",
+        "name": "#7231, aired 2016-02-08",
+        "description": "Niki Peters vs. Gus Woythaler vs. Emily Sun",
+        "note": "2016 College Championship semifinal game 1."
+    },
+    {
+        "id": "5185",
+        "name": "#7230, aired 2016-02-05",
+        "description": "Ziad Ali vs. Noah Cowan vs. Niki Peters",
+        "note": "2016 College Championship quarterfinal game 5."
+    },
+    {
+        "id": "5184",
+        "name": "#7229, aired 2016-02-04",
+        "description": "Sarah Dubnik vs. Hannah Norem vs. Gus Woythaler",
+        "note": "2016 College Championship quarterfinal game 4."
+    },
+    {
+        "id": "5183",
+        "name": "#7228, aired 2016-02-03",
+        "description": "Sam Deutsch vs. Amanda Rosner vs. Michael Sieja",
+        "note": "2016 College Championship quarterfinal game 3."
+    },
+    {
+        "id": "5181",
+        "name": "#7227, aired 2016-02-02",
+        "description": "Emily Bingham vs. Kevin Brown vs. Kate Laubscher",
+        "note": "2016 College Championship quarterfinal game 2."
+    },
+    {
+        "id": "5180",
+        "name": "#7226, aired 2016-02-01",
+        "description": "Adam Antoszewski vs. Carissa Pekny vs. Emily Sun",
+        "note": "2016 College Championship quarterfinal game 1."
+    },
+    {
+        "id": "5178",
+        "name": "#7225, aired 2016-01-29",
+        "description": "Mara Apostol vs. Chris Becker vs. Sandy Hall",
+        "note": ""
+    },
+    {
+        "id": "5177",
+        "name": "#7224, aired 2016-01-28",
+        "description": "Fred Vaughn vs. Phyllis Kidd vs. Mara Apostol",
+        "note": ""
+    },
+    {
+        "id": "5176",
+        "name": "#7223, aired 2016-01-27",
+        "description": "Fred Vaughn vs. Colin West vs. Bianca Hegedus",
+        "note": ""
+    },
+    {
+        "id": "5175",
+        "name": "#7222, aired 2016-01-26",
+        "description": "Fred Vaughn vs. Sonam Shah vs. Gerry Matatics",
+        "note": ""
+    },
+    {
+        "id": "5174",
+        "name": "#7221, aired 2016-01-25",
+        "description": "Fred Vaughn vs. Steven Wolfe vs. Adrien Schless-Meier",
+        "note": ""
+    },
+    {
+        "id": "5172",
+        "name": "#7220, aired 2016-01-22",
+        "description": "Kyle Webb vs. Demi Hueth vs. Fred Vaughn",
+        "note": ""
+    },
+    {
+        "id": "5171",
+        "name": "#7219, aired 2016-01-21",
+        "description": "Kyle Webb vs. Russell Allen vs. Jennifer Sterling",
+        "note": ""
+    },
+    {
+        "id": "5170",
+        "name": "#7218, aired 2016-01-20",
+        "description": "Kyle Webb vs. Sarah Godwin vs. Megan Loyd",
+        "note": ""
+    },
+    {
+        "id": "5168",
+        "name": "#7217, aired 2016-01-19",
+        "description": "Hans Kamm vs. Matt Egbert vs. Kyle Webb",
+        "note": "WE ASKED: News anchor John Berman."
+    },
+    {
+        "id": "5167",
+        "name": "#7216, aired 2016-01-18",
+        "description": "Mike Drummond vs. Claudia Corriere vs. Randi Kristensen",
+        "note": "4th regular play game that didn't have a winner."
+    },
+    {
+        "id": "5166",
+        "name": "#7215, aired 2016-01-15",
+        "description": "Amelia Hershberger vs. Jenn Frohlich vs. Mike Drummond",
+        "note": ""
+    },
+    {
+        "id": "5165",
+        "name": "#7214, aired 2016-01-14",
+        "description": "Amelia Hershberger vs. Ellen Huber vs. Ben Almoite",
+        "note": ""
+    },
+    {
+        "id": "5164",
+        "name": "#7213, aired 2016-01-13",
+        "description": "Amelia Hershberger vs. Len Mucci vs. Megan Metcalf",
+        "note": ""
+    },
+    {
+        "id": "5160",
+        "name": "#7212, aired 2016-01-12",
+        "description": "Adam Hoskins vs. Lisa Cech vs. Amelia Hershberger",
+        "note": "WE ASKED: Mo Rocca."
+    },
+    {
+        "id": "5157",
+        "name": "#7211, aired 2016-01-11",
+        "description": "Adam Hoskins vs. Dom Tassoni vs. Julia Cain",
+        "note": ""
+    },
+    {
+        "id": "5156",
+        "name": "#7210, aired 2016-01-08",
+        "description": "Steve Belding vs. Ava Hadaway vs. Adam Hoskins",
+        "note": ""
+    },
+    {
+        "id": "5155",
+        "name": "#7209, aired 2016-01-07",
+        "description": "Steve Belding vs. Lizzie Turner vs. Brian Rafferty",
+        "note": ""
+    },
+    {
+        "id": "5154",
+        "name": "#7208, aired 2016-01-06",
+        "description": "Steve Belding vs. Sheila Churchill vs. Matt Orlovick",
+        "note": ""
+    },
+    {
+        "id": "5152",
+        "name": "#7207, aired 2016-01-05",
+        "description": "Terry McElhennon vs. Alex Lautanen Walker vs. Steve Belding",
+        "note": ""
+    },
+    {
+        "id": "5150",
+        "name": "#7206, aired 2016-01-04",
+        "description": "Ashley Wilson vs. Terry McElhennon vs. Charlene Lee",
+        "note": ""
+    },
+    {
+        "id": "5147",
+        "name": "#7205, aired 2016-01-01",
+        "description": "Ashley Wilson vs. Deborah Henry vs. Carl Holmgren",
+        "note": ""
+    },
+    {
+        "id": "5146",
+        "name": "#7204, aired 2015-12-31",
+        "description": "Johnny Saunders vs. Sandro Marchegiani vs. Ashley Wilson",
+        "note": ""
+    },
+    {
+        "id": "5144",
+        "name": "#7203, aired 2015-12-30",
+        "description": "Camille Hooper vs. Erik Johns vs. Johnny Saunders",
+        "note": ""
+    },
+    {
+        "id": "5141",
+        "name": "#7202, aired 2015-12-29",
+        "description": "Patricia Franco vs. Ashley Wilson vs. Camille Hooper",
+        "note": "WE ASKED: Actor Josh Gad."
+    },
+    {
+        "id": "5140",
+        "name": "#7201, aired 2015-12-28",
+        "description": "Dee Daigle vs. Patricia Franco vs. Stephen Byrd",
+        "note": ""
+    },
+    {
+        "id": "5139",
+        "name": "#7200, aired 2015-12-25",
+        "description": "Markus Kolic vs. Emily Poole vs. Dee Daigle",
+        "note": ""
+    },
+    {
+        "id": "5138",
+        "name": "#7199, aired 2015-12-24",
+        "description": "Chandreyi Ghosh vs. Markus Kolic vs. Christina Pulawski",
+        "note": ""
+    },
+    {
+        "id": "5137",
+        "name": "#7198, aired 2015-12-23",
+        "description": "Theresa Tejada vs. Joe Quackenbush vs. Chandreyi Ghosh",
+        "note": "WE ASKED: Ballerina Misty Copeland."
+    },
+    {
+        "id": "5136",
+        "name": "#7197, aired 2015-12-22",
+        "description": "Liz Quesnelle vs. Theresa Tejada vs. Ted Johnson",
+        "note": ""
+    },
+    {
+        "id": "5134",
+        "name": "#7196, aired 2015-12-21",
+        "description": "Liz Quesnelle vs. Jay O'Brien vs. Shoshana Gordon Ginsburg",
+        "note": "Second game in which reigning champion did not return."
+    },
+    {
+        "id": "5133",
+        "name": "#7195, aired 2015-12-18",
+        "description": "Claudia Corriere vs. Julie Graves vs. Kiyana Holderbaum",
+        "note": "WE ASKED: NYT crossword puzzle editor Will Shortz."
+    },
+    {
+        "id": "5132",
+        "name": "#7194, aired 2015-12-17",
+        "description": "Tiombi Prince vs. Claudia Corriere vs. Mark Blankenship",
+        "note": ""
+    },
+    {
+        "id": "5131",
+        "name": "#7193, aired 2015-12-16",
+        "description": "Tiombi Prince vs. Ben Parker vs. Lynsey McMullen",
+        "note": ""
+    },
+    {
+        "id": "5130",
+        "name": "#7192, aired 2015-12-15",
+        "description": "Sam McLinn vs. Tiombi Prince vs. Rami Fakhouri",
+        "note": ""
+    },
+    {
+        "id": "5129",
+        "name": "#7191, aired 2015-12-14",
+        "description": "Katie Price vs. Sam McLinn vs. Michelle Chan",
+        "note": ""
+    },
+    {
+        "id": "5128",
+        "name": "#7190, aired 2015-12-11",
+        "description": "Alex Maggio vs. Katie Price vs. Brandon Haschke",
+        "note": "WE ASKED: Kevin O'Leary.  [NOTE: Feature never placed online.]"
+    },
+    {
+        "id": "5127",
+        "name": "#7189, aired 2015-12-10",
+        "description": "Alex Maggio vs. Donnie Edgemon vs. Shannon Lee",
+        "note": ""
+    },
+    {
+        "id": "5126",
+        "name": "#7188, aired 2015-12-09",
+        "description": "Alex Maggio vs. Bianca Howard vs. Jon Lubbers",
+        "note": "(Lin-Manuel Miranda: I'm Lin-Manuel Miranda. I wrote and star in..."
+    },
+    {
+        "id": "5125",
+        "name": "#7187, aired 2015-12-08",
+        "description": "Liz Fritz vs. Alex Maggio vs. Trevor Moore",
+        "note": ""
+    },
+    {
+        "id": "5124",
+        "name": "#7186, aired 2015-12-07",
+        "description": "Jon Rossiter vs. Liz Fritz vs. Greg Johnson",
+        "note": ""
+    },
+    {
+        "id": "5122",
+        "name": "#7185, aired 2015-12-04",
+        "description": "Kelly Wright vs. Alexandra Whitehill Smith vs. Jon Rossiter",
+        "note": ""
+    },
+    {
+        "id": "5121",
+        "name": "#7184, aired 2015-12-03",
+        "description": "Joyce Hshieh vs. Jarrett Cabell vs. Kelly Wright",
+        "note": ""
+    },
+    {
+        "id": "5119",
+        "name": "#7183, aired 2015-12-02",
+        "description": "Joyce Hshieh vs. Nicole Stanley vs. Brad Rudy",
+        "note": ""
+    },
+    {
+        "id": "5117",
+        "name": "#7182, aired 2015-12-01",
+        "description": "Joyce Hshieh vs. Shea Zellweger vs. Frankie Lynne",
+        "note": ""
+    },
+    {
+        "id": "5116",
+        "name": "#7181, aired 2015-11-30",
+        "description": "Rob Russell vs. Elaine Baker vs. Joyce Hshieh",
+        "note": ""
+    },
+    {
+        "id": "5113",
+        "name": "#7180, aired 2015-11-27",
+        "description": "Rob Russell vs. Darin Brown vs. Bianca Benincasa",
+        "note": ""
+    },
+    {
+        "id": "5112",
+        "name": "#7179, aired 2015-11-26",
+        "description": "Ricky Hudson vs. Marie Halvorsen-Ganepola vs. Rob Russell",
+        "note": ""
+    },
+    {
+        "id": "5110",
+        "name": "#7178, aired 2015-11-25",
+        "description": "Julie Adair vs. Ricky Hudson vs. Saadia Mather",
+        "note": ""
+    },
+    {
+        "id": "5109",
+        "name": "#7177, aired 2015-11-24",
+        "description": "Laura Ashby vs. Julie Adair vs. Molly Hewitt",
+        "note": ""
+    },
+    {
+        "id": "5108",
+        "name": "#7176, aired 2015-11-23",
+        "description": "Laura Ashby vs. Colin Thibadeau vs. Matt Keeshin",
+        "note": ""
+    },
+    {
+        "id": "5104",
+        "name": "#7175, aired 2015-11-20",
+        "description": "Matt Jackson vs. Alex Jacob vs. Kerry Greene",
+        "note": "2015 Tournament of Champions final game 2."
+    },
+    {
+        "id": "5103",
+        "name": "#7174, aired 2015-11-19",
+        "description": "Matt Jackson vs. Alex Jacob vs. Kerry Greene",
+        "note": "2015 Tournament of Champions final game 1."
+    },
+    {
+        "id": "5101",
+        "name": "#7173, aired 2015-11-18",
+        "description": "Matt Jackson vs. Andrew Haringer vs. Catherine Hardee",
+        "note": "2015 Tournament of Champions semifinal game 3."
+    },
+    {
+        "id": "5100",
+        "name": "#7172, aired 2015-11-17",
+        "description": "Alex Jacob vs. Brennan Bushee vs. Vaughn Winchell",
+        "note": "2015 Tournament of Champions semifinal game 2."
+    },
+    {
+        "id": "5099",
+        "name": "#7171, aired 2015-11-16",
+        "description": "Kerry Greene vs. John Schultz vs. Dan Feitel",
+        "note": "2015 Tournament of Champions semifinal game 1."
+    },
+    {
+        "id": "5098",
+        "name": "#7170, aired 2015-11-13",
+        "description": "Alex Jacob vs. Scott Lord vs. Michael Bilow",
+        "note": "2015 Tournament of Champions quarterfinal game 5."
+    },
+    {
+        "id": "5097",
+        "name": "#7169, aired 2015-11-12",
+        "description": "Kerry Greene vs. Andrew Haringer vs. Elliot Yates",
+        "note": "2015 Tournament of Champions quarterfinal game 4."
+    },
+    {
+        "id": "5095",
+        "name": "#7168, aired 2015-11-11",
+        "description": "Matt Jackson vs. John Schultz vs. Jennifer Giles",
+        "note": "2015 Tournament of Champions quarterfinal game 3.\r\n\r\nWE ASKED: Actor Eric Stonestreet."
+    },
+    {
+        "id": "5093",
+        "name": "#7167, aired 2015-11-10",
+        "description": "Greg Seroka vs. Brennan Bushee vs. Kristin Sausville",
+        "note": "2015 Tournament of Champions quarterfinal game 2."
+    },
+    {
+        "id": "5092",
+        "name": "#7166, aired 2015-11-09",
+        "description": "Dan Feitel vs. Vaughn Winchell vs. Catherine Hardee",
+        "note": "2015 Tournament of Champions quarterfinal game 1."
+    },
+    {
+        "id": "5091",
+        "name": "#7165, aired 2015-11-06",
+        "description": "Mike Barrett vs. Laura Ashby vs. Sadie Iverson",
+        "note": "WE ASKED: TV creator Vince Gilligan."
+    },
+    {
+        "id": "5090",
+        "name": "#7164, aired 2015-11-05",
+        "description": "Sam Stubblefield vs. Mike Barrett vs. Ken Hill",
+        "note": ""
+    },
+    {
+        "id": "5089",
+        "name": "#7163, aired 2015-11-04",
+        "description": "Ryan Mewett vs. Sam Stubblefield vs. Jenny Gu",
+        "note": ""
+    },
+    {
+        "id": "5087",
+        "name": "#7162, aired 2015-11-03",
+        "description": "Marcus Lewis vs. Ryan Mewett vs. Lisa Price",
+        "note": ""
+    },
+    {
+        "id": "5088",
+        "name": "#7161, aired 2015-11-02",
+        "description": "Katie Walker vs. Christine Qualey vs. Marcus Lewis",
+        "note": ""
+    },
+    {
+        "id": "5085",
+        "name": "#7160, aired 2015-10-30",
+        "description": "Nikki Grillos vs. Katie Walker vs. Justin Morales",
+        "note": ""
+    },
+    {
+        "id": "5083",
+        "name": "#7159, aired 2015-10-29",
+        "description": "Nikki Grillos vs. Damien Martin vs. Julie Stapel",
+        "note": ""
+    },
+    {
+        "id": "5081",
+        "name": "#7158, aired 2015-10-28",
+        "description": "Sean Anderson vs. Chris Lastrapes vs. Nikki Grillos",
+        "note": ""
+    },
+    {
+        "id": "5078",
+        "name": "#7157, aired 2015-10-27",
+        "description": "Sean Anderson vs. Dave Treptow vs. Jayne Lady",
+        "note": ""
+    },
+    {
+        "id": "5076",
+        "name": "#7156, aired 2015-10-26",
+        "description": "Sean Anderson vs. Beth Horn vs. Tom Flynn",
+        "note": ""
+    },
+    {
+        "id": "5075",
+        "name": "#7155, aired 2015-10-23",
+        "description": "Dennis Golin vs. Becky Sullivan vs. Sean Anderson",
+        "note": ""
+    },
+    {
+        "id": "5074",
+        "name": "#7154, aired 2015-10-22",
+        "description": "Dennis Golin vs. Philip Clark vs. Jennifer Robinson",
+        "note": ""
+    },
+    {
+        "id": "5072",
+        "name": "#7153, aired 2015-10-21",
+        "description": "Robert Arrowood vs. Dennis Golin vs. Kelly Winck",
+        "note": ""
+    },
+    {
+        "id": "5071",
+        "name": "#7152, aired 2015-10-20",
+        "description": "Dean Meyer vs. Robert Arrowood vs. Alison Saunders",
+        "note": "WE ASKED: Actress Bellamy Young."
+    },
+    {
+        "id": "5070",
+        "name": "#7151, aired 2015-10-19",
+        "description": "Josh Silverman vs. Martin Schmidt vs. Dean Meyer",
+        "note": ""
+    },
+    {
+        "id": "5069",
+        "name": "#7150, aired 2015-10-16",
+        "description": "Josh Silverman vs. Zelda Pulliam vs. Matt Akridge",
+        "note": ""
+    },
+    {
+        "id": "5067",
+        "name": "#7149, aired 2015-10-15",
+        "description": "Michael Baker vs. Josh Silverman vs. Dana Desprois",
+        "note": ""
+    },
+    {
+        "id": "5066",
+        "name": "#7148, aired 2015-10-14",
+        "description": "Matt Jackson vs. Michael Baker vs. Sally Hatfield",
+        "note": "Matt Jackson game 14."
+    },
+    {
+        "id": "5065",
+        "name": "#7147, aired 2015-10-13",
+        "description": "Matt Jackson vs. Corbett Hancey vs. Christine Gengaro",
+        "note": "Matt Jackson game 13."
+    },
+    {
+        "id": "5064",
+        "name": "#7146, aired 2015-10-12",
+        "description": "Matt Jackson vs. Julia Novakovic vs. Victor Quillen",
+        "note": "Matt Jackson game 12."
+    },
+    {
+        "id": "5063",
+        "name": "#7145, aired 2015-10-09",
+        "description": "Matt Jackson vs. Emily Rollman vs. Elicia Woerle",
+        "note": "Matt Jackson game 11."
+    },
+    {
+        "id": "5062",
+        "name": "#7144, aired 2015-10-08",
+        "description": "Matt Jackson vs. Erik Latshaw vs. Sameer Rawal",
+        "note": "Matt Jackson game 10. (Peabody: To convince Alex Trebek that..."
+    },
+    {
+        "id": "5061",
+        "name": "#7143, aired 2015-10-07",
+        "description": "Matt Jackson vs. Alison Burke vs. Susan Thurman",
+        "note": "Matt Jackson game 9."
+    },
+    {
+        "id": "5059",
+        "name": "#7142, aired 2015-10-06",
+        "description": "Matt Jackson vs. John Kozempel vs. Ernestine Gardner",
+        "note": "Matt Jackson game 8."
+    },
+    {
+        "id": "5058",
+        "name": "#7141, aired 2015-10-05",
+        "description": "Matt Jackson vs. Ben Rudd vs. Amanda Brock",
+        "note": "Matt Jackson game 7."
+    },
+    {
+        "id": "5057",
+        "name": "#7140, aired 2015-10-02",
+        "description": "Matt Jackson vs. Tony Langford vs. Lindsay Townes",
+        "note": "Matt Jackson game 6."
+    },
+    {
+        "id": "5056",
+        "name": "#7139, aired 2015-10-01",
+        "description": "Matt Jackson vs. Greg Vinton vs. Ezgi Ustundag",
+        "note": "Matt Jackson game 5.\r\n\r\nWE ASKED: Quarterback Aaron Rodgers."
+    },
+    {
+        "id": "5055",
+        "name": "#7138, aired 2015-09-30",
+        "description": "Matt Jackson vs. Dennis Lloyd vs. Samantha Budesa",
+        "note": "Matt Jackson game 4."
+    },
+    {
+        "id": "5053",
+        "name": "#7137, aired 2015-09-29",
+        "description": "Matt Jackson vs. Cam Hoang vs. Alan Sherman",
+        "note": "Matt Jackson game 3."
+    },
+    {
+        "id": "5052",
+        "name": "#7136, aired 2015-09-28",
+        "description": "Matt Jackson vs. Jedidiah Smith vs. Vicki Eastus",
+        "note": "Matt Jackson game 2."
+    },
+    {
+        "id": "5050",
+        "name": "#7135, aired 2015-09-25",
+        "description": "Dylan Parson vs. Laura Varriale vs. Matt Jackson",
+        "note": "Matt Jackson game 1."
+    },
+    {
+        "id": "5049",
+        "name": "#7134, aired 2015-09-24",
+        "description": "Dylan Parson vs. Kyle Baum vs. Amanda Fieiras",
+        "note": ""
+    },
+    {
+        "id": "5048",
+        "name": "#7133, aired 2015-09-23",
+        "description": "Dylan Parson vs. Austin Yates vs. Barbara Gao",
+        "note": "WE ASKED: Magician Penn Jillette."
+    },
+    {
+        "id": "5046",
+        "name": "#7132, aired 2015-09-22",
+        "description": "Natalie Lips vs. Mai Kulkarni vs. Dylan Parson",
+        "note": ""
+    },
+    {
+        "id": "5044",
+        "name": "#7131, aired 2015-09-21",
+        "description": "Natalie Lips vs. Sue Corbett vs. Gordon Reid",
+        "note": ""
+    },
+    {
+        "id": "5043",
+        "name": "#7130, aired 2015-09-18",
+        "description": "Natalie Lips vs. Eric Matheis vs. Tina Uihlein",
+        "note": ""
+    },
+    {
+        "id": "5042",
+        "name": "#7129, aired 2015-09-17",
+        "description": "Audrey Watkins-Fox vs. Bobby O'Neill vs. Natalie Lips",
+        "note": ""
+    },
+    {
+        "id": "5040",
+        "name": "#7128, aired 2015-09-16",
+        "description": "Audrey Watkins-Fox vs. Talia Lavin vs. Kevin Butterfield",
+        "note": ""
+    },
+    {
+        "id": "5038",
+        "name": "#7127, aired 2015-09-15",
+        "description": "Ed Kim vs. Andy Anderson vs. Audrey Watkins-Fox",
+        "note": "WE ASKED: Mark Kelly."
+    },
+    {
+        "id": "5037",
+        "name": "#7126, aired 2015-09-14",
+        "description": "Tara Anderson vs. Rook Thomas Hine vs. Ed Kim",
+        "note": "First game of Season 32."
+    }
+]

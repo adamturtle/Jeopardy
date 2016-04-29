@@ -1,0 +1,13 @@
+{
+    "name": "adamturtle/jeopardy",
+    "description": "Play Jeopardy! along with your friends! Uses Vue.js and realtime gameplay with Pusher.",
+    "require": {
+        "fabpot/goutte": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Adam Turtle",
+            "email": "adam@adamturtle.com"
+        }
+    ]
+}

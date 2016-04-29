@@ -1,0 +1,206 @@
+[
+    {
+        "id": "32",
+        "name": "Season 32",
+        "description": "2015-09-14 to 2016-07-29",
+        "note": "(147 games archived)"
+    },
+    {
+        "id": "31",
+        "name": "Season 31",
+        "description": "2014-09-15 to 2015-07-31",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "30",
+        "name": "Season 30",
+        "description": "2013-09-16 to 2014-08-01",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "29",
+        "name": "Season 29",
+        "description": "2012-09-17 to 2013-08-02",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "28",
+        "name": "Season 28",
+        "description": "2011-09-19 to 2012-08-03",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "27",
+        "name": "Season 27",
+        "description": "2010-09-13 to 2011-07-29",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "26",
+        "name": "Season 26",
+        "description": "2009-09-14 to 2010-07-30",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "25",
+        "name": "Season 25",
+        "description": "2008-09-08 to 2009-07-24",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "24",
+        "name": "Season 24",
+        "description": "2007-09-10 to 2008-07-25",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "23",
+        "name": "Season 23",
+        "description": "2006-09-11 to 2007-07-27",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "22",
+        "name": "Season 22",
+        "description": "2005-09-12 to 2006-07-28",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "21",
+        "name": "Season 21",
+        "description": "2004-09-06 to 2005-07-22",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "20",
+        "name": "Season 20",
+        "description": "2003-09-08 to 2004-07-23",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "19",
+        "name": "Season 19",
+        "description": "2002-09-02 to 2003-07-18",
+        "note": "(228 games archived)"
+    },
+    {
+        "id": "18",
+        "name": "Season 18",
+        "description": "2001-09-03 to 2002-07-19",
+        "note": "(229 games archived)"
+    },
+    {
+        "id": "17",
+        "name": "Season 17",
+        "description": "2000-09-04 to 2001-07-20",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "16",
+        "name": "Season 16",
+        "description": "1999-09-06 to 2000-07-21",
+        "note": "(230 games archived)"
+    },
+    {
+        "id": "15",
+        "name": "Season 15",
+        "description": "1998-09-07 to 1999-07-23",
+        "note": "(228 games archived)"
+    },
+    {
+        "id": "14",
+        "name": "Season 14",
+        "description": "1997-09-01 to 1998-07-17",
+        "note": "(229 games archived)"
+    },
+    {
+        "id": "13",
+        "name": "Season 13",
+        "description": "1996-09-02 to 1997-07-18",
+        "note": "(198 games archived)"
+    },
+    {
+        "id": "12",
+        "name": "Season 12",
+        "description": "1995-09-04 to 1996-07-19",
+        "note": "(73 games archived)"
+    },
+    {
+        "id": "11",
+        "name": "Season 11",
+        "description": "1994-09-05 to 1995-07-21",
+        "note": "(30 games archived)"
+    },
+    {
+        "id": "10",
+        "name": "Season 10",
+        "description": "1993-09-06 to 1994-07-22",
+        "note": "(41 games archived)"
+    },
+    {
+        "id": "9",
+        "name": "Season 9",
+        "description": "1992-09-07 to 1993-07-23",
+        "note": "(62 games archived)"
+    },
+    {
+        "id": "8",
+        "name": "Season 8",
+        "description": "1991-09-02 to 1992-07-17",
+        "note": "(43 games archived)"
+    },
+    {
+        "id": "7",
+        "name": "Season 7",
+        "description": "1990-09-03 to 1991-07-19",
+        "note": "(49 games archived)"
+    },
+    {
+        "id": "superjeopardy",
+        "name": "Super Jeopardy!",
+        "description": "1990-06-16 to 1990-09-08",
+        "note": "(13 games archived)"
+    },
+    {
+        "id": "6",
+        "name": "Season 6",
+        "description": "1989-09-04 to 1990-07-20",
+        "note": "(135 games archived)"
+    },
+    {
+        "id": "5",
+        "name": "Season 5",
+        "description": "1988-09-05 to 1989-07-21",
+        "note": "(64 games archived)"
+    },
+    {
+        "id": "4",
+        "name": "Season 4",
+        "description": "1987-09-07 to 1988-07-22",
+        "note": "(103 games archived)"
+    },
+    {
+        "id": "3",
+        "name": "Season 3",
+        "description": "1986-09-08 to 1987-07-24",
+        "note": "(65 games archived)"
+    },
+    {
+        "id": "2",
+        "name": "Season 2",
+        "description": "1985-09-09 to 1986-06-06",
+        "note": "(43 games archived)"
+    },
+    {
+        "id": "1",
+        "name": "Season 1",
+        "description": "1984-09-10 to 1985-06-07",
+        "note": "(35 games archived)"
+    },
+    {
+        "id": "trebekpilots",
+        "name": "Trebek pilots",
+        "description": "1983-09-18 and 1984?",
+        "note": "(2 games archived)"
+    }
+]
